@@ -1,6 +1,21 @@
-streamlit
+# Web Framework
+streamlit>=1.20.0
+
+# Deep Learning & NLP
 torch
-transformers
-datasets
+transformers>=4.30.0
+
+# Explainability
 captum
+
+# Data Processing
+pandas
+numpy
+datasets>=2.0.0
+
+# Evaluation
 scikit-learn
+
+# Utilities
+tqdm
+accelerate
